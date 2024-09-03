@@ -1,4 +1,5 @@
-// page.js
+// 
+
 import Head from 'next/head';
 import Header from './components/Header';
 import PrinterGuide from './components/PrinterGuide';
