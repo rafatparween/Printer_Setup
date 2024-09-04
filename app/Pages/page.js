@@ -232,7 +232,7 @@ export default function Home() {
             <img 
               src="https://www.qwebcare.com/help/hp-printer_files/DJPrinters.png" 
               alt="Printers" 
-              className="search w-full max-w-lg h-[324px] w-[px] "
+              className="search w-full max-w-lg h-[224px] w-[246px]"
             />
             
           </div>
