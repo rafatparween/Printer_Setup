@@ -1,4 +1,5 @@
 "use client";
+import Link from 'next/link';
 import React, { useState } from 'react';
 import { useRouter } from 'next/navigation';
 
@@ -70,7 +71,9 @@ export default function Home() {
                 placeholder='Enter exact model number or name. Ex: "ENVY 4520"'
                 className="border border-gray-300 p-3 rounded-l-lg w-full max-w-md"
               />
-              <button className="bg-blue-500 text-white px-4 py-3 rounded-r-lg">Search</button>
+              <Link href="./Pages/install">
+                <button className="bg-[#0096D6] text-white px-4 py-3 rounded-r-lg">Search</button>
+              </Link>
               
               {filteredModels.length > 0 && (
                 <ul className="absolute left-0 mt-1 w-full max-w-md bg-white border border-gray-300 rounded-lg shadow-lg z-10">
@@ -92,7 +95,7 @@ export default function Home() {
               <a href="#">My device is not listed</a>
             </div>
 
-            <div className="text-sm text-gray-600">
+            <div className="text-sm text-[#007DBA] mt-[200px]">
               <a href="#">United Kingdom - English</a>
             </div>
           </div>
@@ -102,7 +105,7 @@ export default function Home() {
             <img 
               src="https://www.qwebcare.com/help/hp-printer_files/DJPrinters.png" 
               alt="Printers" 
-              className="w-full max-w-lg h-[300px] w-[300px]"
+              className="w-full max-w-lg h-[246px] w-[246px]"
             />
           </div>
         </div>

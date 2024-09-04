@@ -2,3 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+
+@font-face {
+    font-family: 'HPSimplifiedLight123';
+    src: url('/fonts/HPSimplifiedLight123.woff2') format('woff2'),
+         url('/fonts/HPSimplifiedLight123.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }

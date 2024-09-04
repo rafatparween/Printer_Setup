@@ -6,8 +6,8 @@ export default function Home() {
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between px-4">
         {/* Left Side: Text Content */}
         <div className="text-left md:w-1/2 flex flex-col justify-center">
-          <h1 className="text-3xl md:text-4xl text-[50px] mb-4 h-[58px] w-[1100px]">Easy setup, effortless printing!</h1>
-          <p className="text-lg md:text-xl mb-4">Install HP Smart</p>
+          <h1 className="h-[58px] w-[1100px]">Easy setup, effortless printing!</h1>
+          <p className="w-[550px] h-[32px]">Install HP Smart</p>
           <button className="bg-blue-500 text-white px-4 py-3 rounded-lg">Install Setup</button>
         </div>
 

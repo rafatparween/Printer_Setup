@@ -18,8 +18,7 @@ div {
 }
 
 .text-content {
-    padding: 136.797px;
-    margin-left: 150px;
+    margin-left: 113px;
     font-size: 30px;
     margin-bottom: 60px;
 }
@@ -34,6 +33,9 @@ div {
     padding-left: 20px;
     margin-bottom: 20px;
     flex: 1;
+}
+.select{
+    width: 643px;
 }
 
 .printer-setup li {
@@ -67,8 +69,8 @@ div {
     width: 579px;
     height: 549px;
     padding: 91.1875px;
-    margin-right: 200px;
     margin-bottom: 30px;
+    margin-left: 459px;
 }
 
 /* Mobile devices (up to 576px) */

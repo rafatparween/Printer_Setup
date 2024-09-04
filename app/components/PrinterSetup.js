@@ -12,11 +12,11 @@ const PrinterSetup = () => {
 
   return (
     <div className="printer-setup">
-      <div className="text-content">
+      <div className="text-content ">
         <h1>123 PRINTER SETUP</h1>
         <ul>
           <li>Make sure your printer is powered on</li>
-          <li>Select Download to install the recommended printer software to complete setup</li>
+          <li className='select'>Select Download to install the recommended printer software to complete setup</li>
         </ul>
         <button className="setup-button" onClick={handleSetupClick}>
           Click Here for Setup

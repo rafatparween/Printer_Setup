@@ -7,6 +7,7 @@ import PrinterSetup from './components/PrinterSetup';
 import Solutions from './components/Solutions';
 import Support from './components/Support';
 import '@fortawesome/fontawesome-free/css/all.min.css'; // Import Font Awesome
+import './globals.css'
 
 function Home() {
   return (
