@@ -230,9 +230,9 @@ export default function Home() {
           {/* Right Side: Image */}
           <div className="mt-8 md:mt-0 md:w-1/2 flex justify-center">
             <img 
-              src="https://www.qwebcare.com/help/hp-printer_files/DJPrinters.png" 
+              src="printer.png" 
               alt="Printers" 
-              className="search w-full max-w-lg h-[224px] w-[246px]"
+              className="search w-full max-w-lg h-[439px] w-[606px]"
             />
             
           </div>
