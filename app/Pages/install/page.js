@@ -16,7 +16,7 @@ export default function Home() {
               Click Install Setup for Install HP Smart
             </p>
             <Link href="./install/process">
-              <button className="text-[#0096D6] W-[267px] h-[64px] pt-[1px] pr-[50px] pb-[1px] pl-[67px] text-[24px]  border-2 border-solid ">
+              <button className="text-[#0096D6] W-[267px] h-[64px] pt-[1px] pr-[50px] pb-[1px] pl-[67px] text-[24px]  border-2 border-[#0096D6] px-4 py-2 rounded transition duration-300 ease-in-out hover:bg-[#007BCC] ">
                 Install Setup
               </button>
             </Link>
