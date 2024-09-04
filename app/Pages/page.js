@@ -35,7 +35,7 @@ export default function Home() {
 
   const handleModelClick = (model) => {
     const modelPath = model.replace(/\s+/g, '-').replace(/\//g, '-');
-    router.push(`/model/${modelPath}`);
+    router.push(`./Pages/install`);
   };
 
   return (
