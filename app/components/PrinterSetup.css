@@ -42,7 +42,7 @@ div {
     margin: 10px 0;
 }
 
-.setup-button {
+.btn {
     background-color: white;
     color: rgba(28, 141, 206, 0.93);
     padding: 10px 20px;
@@ -114,7 +114,7 @@ div {
         /* Center the image */
     }
 
-    .setup-button {
+    .btn{
         font-size: 1rem;
         /* Adjust button font size */
         padding: 10px 20px;
@@ -165,7 +165,7 @@ div {
         /* Center the image */
     }
 
-    .setup-button {
+    .btn {
         font-size: 1.1rem;
         /* Slightly larger font */
         padding: 12px 24px;
@@ -214,7 +214,7 @@ div {
         /* Center image */
     }
 
-    .setup-button {
+    .btn {
         font-size: 1.2rem;
         /* Adjust button font size */
         padding: 14px 28px;

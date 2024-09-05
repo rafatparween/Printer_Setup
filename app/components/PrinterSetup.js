@@ -18,9 +18,9 @@ const PrinterSetup = () => {
           <li>Make sure your printer is powered on</li>
           <li className='select'>Select Download to install the recommended printer software to complete setup</li>
         </ul>
-        <button className="setup-button" onClick={handleSetupClick}>
+        <button className="btn" onClick={handleSetupClick}>
           Click Here for Setup
-          <img src='hplogo.jpeg' alt="HP Logo" className="hp-logo" />
+          <img src='hplogo.png' alt="HP Logo" className="hp-logo" />
         </button>
       </div>
 

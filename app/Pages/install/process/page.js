@@ -39,10 +39,10 @@ export default function InstallingDriversPage() {
                     />
                 </div>
                 <img
-                    src="https://www.qwebcare.com/help/images/gif.gif"
+                    src="https://get4lessghana.com/wp-content/uploads/2022/05/HP-INK-ADVANTAGE-3787.jpg"
                     alt="Printer Error"
-                    width={377}
-                    height={250}
+                    width={660}
+                    height={660}
                 />
             </div>
             <div className='w-[1835px] h-[58px] text-[39px] mt-[-311px] ml-[774px]'>Installing Drivers..</div>

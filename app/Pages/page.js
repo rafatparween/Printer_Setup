@@ -230,9 +230,9 @@ export default function Home() {
           {/* Right Side: Image */}
           <div className="mt-8 md:mt-0 md:w-1/2 flex justify-center">
             <img 
-              src="printer.png" 
+              src="picture.png" 
               alt="Printers" 
-              className="search w-full max-w-lg h-[439px] w-[606px]"
+              className="search w-full max-w-lg h-[706px] w-[1374px] mr-[-405px]"
             />
             
           </div>
